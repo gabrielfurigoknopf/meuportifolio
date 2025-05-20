@@ -32,7 +32,7 @@ portfolio/
 - [x] CSS separado em arquivo externo na pasta `css/`
 - [x] Imagens organizadas na pasta `img/`
 - [x] Uso de fonte customizada via Google Fonts (`Orbitron`)
-- [x] Estilo visual majoritariamente tech moderno com toque grunge personalizado para seção das bandas
+- [x] Estilo visual majoritariamente tech moderno
 - [x] Layout responsivo e acessível
 
 ---
