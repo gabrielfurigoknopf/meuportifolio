@@ -60,8 +60,9 @@ Basta abrir o arquivo `index.html` no seu navegador preferido para visualizar o 
 
 ## Autor
 
-Gabriel Furigo Knopf  
-Estudante de Ciência da Computação - UPF
+Nome: Gabriel Furigo Knopf  
+Matrícula: 199030
+Curso: Ciência da Computação - UPF
 
 ---
 
