@@ -4,7 +4,7 @@
 
 Este é o meu portfólio web desenvolvido para a disciplina **WebLab** do curso de Ciência da Computação da Universidade de Passo Fundo (UPF), entregue em 29/05/2025.
 
-O portfólio foi criado utilizando **HTML5** e **CSS3**, seguindo um estilo moderno inspirado em sites tecnológicos, com uma seção grunge customizada para destacar minhas bandas favoritas.
+O portfólio foi criado utilizando **HTML5** e **CSS3**, seguindo um estilo moderno inspirado em sites tecnológicos.
 
 ---
 
@@ -17,7 +17,7 @@ portfolio/
 ├── contato.html # Página de contato, com formulário funcional
 ├── css/
 │ └── style.css # Arquivo CSS externo
-├── img/ # Imagens usadas no projeto (perfil, bandas, Minecraft, textura grunge)
+├── img/ # Imagens usadas no projeto (perfil, bandas, Minecraft)
 └── README.md # Este arquivo
 
 
@@ -54,7 +54,7 @@ Basta abrir o arquivo `index.html` no seu navegador preferido para visualizar o 
 
 ## Link para o repositório
 
-[https://github.com/seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio)
+[https://github.com/gabrielfurigoknopf/meuportifolio](https://github.com/gabrielfurigoknopf/meuportifolio)
 
 ---
 

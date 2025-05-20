@@ -1,4 +1,4 @@
-/* Reset e fonte base */
+/*Reset e fonte base*/
 * {
   margin: 0;
   padding: 0;
@@ -12,14 +12,14 @@ body {
   line-height: 1.6;
 }
 
-/* Cabeçalho fixo */
+/*Cabeçalho fixo*/
 header {
   background-color: #1a1a1a;
   padding: 1rem 2rem;
   position: sticky;
   top: 0;
   z-index: 100;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
 }
 
 nav {
@@ -51,7 +51,7 @@ nav {
   color: #00ffc8;
 }
 
-/* Hero section */
+/*Hero section*/
 .hero {
   text-align: center;
   padding: 100px 20px;
@@ -69,7 +69,7 @@ nav {
   color: #ccc;
 }
 
-/* Container para páginas internas */
+/*Container para páginas internas*/
 .container {
   max-width: 800px;
   margin: 100px auto;
@@ -93,7 +93,7 @@ nav {
   text-align: justify;
 }
 
-/* Estilo para imagem de perfil */
+/*Estilo para imagem de perfil*/
 .profile-img {
   display: block;
   width: 180px;
@@ -104,7 +104,7 @@ nav {
   border: 3px solid #00ffc8;
 }
 
-/* Estilo para imagens ilustrativas */
+/*Estilo para imagens ilustrativas*/
 .img-hobby {
   display: block;
   margin: 20px auto;
@@ -114,28 +114,7 @@ nav {
   box-shadow: 0 0 15px rgba(0, 255, 200, 0.1);
 }
 
-/* Estilo grunge para bloco das bandas */
-.grunge-box {
-  background-color: #181818;
-  border: 2px dashed #4a4a4a;
-  padding: 1.5rem;
-  margin: 2rem 0;
-  font-family: 'Courier New', monospace;
-  color: #c1c1c1;
-  box-shadow: inset 0 0 10px rgba(50, 50, 50, 0.5), 0 0 20px rgba(0, 0, 0, 0.6);
-  background-image: url('../img/grunge-texture.png'); /* opcional */
-  background-size: cover;
-  background-blend-mode: overlay;
-  border-radius: 8px;
-  text-align: center;
-}
-
-.grunge-box strong {
-  color: #ff8c00;
-  text-shadow: 0 0 3px #000;
-}
-
-/* Link do GitHub */
+/*Link do GitHub*/
 .github-link {
   color: #00ffc8;
   text-decoration: none;
@@ -146,7 +125,7 @@ nav {
   text-decoration: underline;
 }
 
-/* Grid de projetos */
+/*Grid de projetos*/
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -189,7 +168,7 @@ nav {
   text-decoration: underline;
 }
 
-/* Estilos para formulário de contato */
+/*Estilos para formulário de contato*/
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -235,7 +214,7 @@ nav {
   background-color: #00caa0;
 }
 
-/* Rodapé */
+/*Rodapé*/
 footer {
   background-color: #111;
   text-align: center;
